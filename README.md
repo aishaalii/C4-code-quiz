@@ -8,4 +8,7 @@ The challenge was to build a timed coding quiz with multiple-choice questions. T
 * CSS
 * Javascript
 
+## Link
+file:///Users/aishaali/Desktop/code-quiz/index.html
+
 ## Screenshot
