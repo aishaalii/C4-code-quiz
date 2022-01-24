@@ -9,6 +9,6 @@ The challenge was to build a timed coding quiz with multiple-choice questions. T
 * Javascript
 
 ## Link
-https://aishaalii.github.io/code-quiz/
+file:///Users/aishaali/Desktop/code-quiz/index.html
 
 ## Screenshot

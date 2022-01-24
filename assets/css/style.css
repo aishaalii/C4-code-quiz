@@ -1,0 +1,17 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+.warpper {
+    display: flex;
+    justify-content: center;
+}
+
+#btn {
+    size: auto;
+    color: purple;
+}
